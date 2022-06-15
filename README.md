@@ -7,7 +7,7 @@ Project Introduction
 which is traditionally commonly introduced in lectures on operating systems.
 
 <p align="center">
-  <img src="[your_relative_path_here](https://velog.velcdn.com/images%2Fdogfootbirdfoot%2Fpost%2F126372e4-5c99-4115-aff4-4854d2758c17%2Fphilosophers.png)" width="350" title="hover text">
+  <img src="[your_relative_path_here](https://velog.velcdn.com/images%2Fdogfootbirdfoot%2Fpost%2F126372e4-5c99-4115-aff4-4854d2758c17%2Fphilosophers.png" width="350" title="hover text">
 </p>
 
 For example, n philosophers are sitting at the round table and eating. A fork is placed between the philosophers, and the philosophers eat through the following process.
