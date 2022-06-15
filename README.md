@@ -26,3 +26,13 @@ and everyone would forever be unable to hold the right forks. That is, there is 
 and the philosophers are forever on standby. This phenomenon is called deadlock.
 Once in a deadlock, philosophers continue to suffer and die of starvation.
 The task is to implement a program that solves this problem using (mutex) in mandatory!
+
+reference:
+https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2
+https://www.youtube.com/watch?v=FYUi-u7UWgw&t=812s&ab_channel=NesoAcademy
+https://dkwjdi.tistory.com/247
+https://worthpreading.tistory.com/90
+https://www.notion.so/7859c9b6372d472c9675b29ce25d4117
+https://malbongcode.tistory.com/161
+https://velog.io/@24siefil/Philosophers-Synchronization
+https://velog.io/@underlier12/OS-24-%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EC%99%80-%EA%B8%B0%EC%95%84%EC%83%81%ED%83%9C
